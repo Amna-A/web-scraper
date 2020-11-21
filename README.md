@@ -1,5 +1,5 @@
 # eBay web-scraper
-a simple ebay web scraper for info on one item
+a simple ebay web scraper for info on one item to understand beautifulsoup4
 
 ## What does the programe do?
 - extract (laptop) data from ebay.com 
