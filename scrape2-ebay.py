@@ -1,3 +1,6 @@
+
+#This iis not a very accurate method and it was done like this for experemental purposes
+#---------------------------------------------------------------------------------------
 #program that scrape (laptop) data from ebay.com 
 #and return a dictionary with (names) and (prices) from the first (two) pages
 #finally save data in a csv file
