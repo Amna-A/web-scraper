@@ -1,4 +1,5 @@
-# eBay web-scraper
+# eBay web-scraper [![HitCount](http://hits.dwyl.com/{Amna-A}/{web-scraper}.svg)](http://hits.dwyl.com/{Amna-A}/{web-scraper})
+
 a simple ebay web scraper for info on one item to understand beautifulsoup4
 
 ## What does the programe do?
